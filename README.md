@@ -25,7 +25,7 @@ Build a binary classification model using Logistic Regression to predict ad clic
 
 ## Data Processing
 - Checked and cleaned the dataset
-- Converted the Data types of Column Male and Timestamp
+- Converted the Data type of Columns Male and Timestamp
 - Split data into training and testing sets
 - Trained a Logistic Regression model
 
