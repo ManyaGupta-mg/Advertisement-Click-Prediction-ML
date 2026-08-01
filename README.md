@@ -14,15 +14,6 @@ Build a binary classification model using Logistic Regression to predict ad clic
 - Seaborn
 - Scikit-learn
 
-## Model
-- Logistic Regression
-
-## Model Performance
-- Accuracy: 95%
-- Precision (Clicked Ad): 96%
-- Recall (Clicked Ad): 95%
-- F1-score: 96%
-
 ## Dataset Features
 - Daily Time Spent on Site
 - Age
@@ -31,6 +22,21 @@ Build a binary classification model using Logistic Regression to predict ad clic
 - Gender
 - Country
 - Clicked on Ad (Target)
+
+## Data Processing
+- Checked and cleaned the dataset
+- Converted categorical data into numerical format
+- Split data into training and testing sets
+- Trained a Logistic Regression model
+
+## Model
+- Logistic Regression
+
+## Model Performance
+- Accuracy: 95%
+- Precision: 96%
+- Recall: 95%
+- F1-score: 96%
 
 ## Conclusion
 The model successfully predicts customer ad-click behavior and identifies patterns related to user engagement.
